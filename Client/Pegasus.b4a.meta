@@ -4,6 +4,6 @@ ModuleBreakpoints0=
 ModuleBreakpoints1=
 ModuleClosedNodes0=
 ModuleClosedNodes1=
-NavigationStack=Main,pegasusEncrypt_LongClick,79,6,Main,Jobdone,110,6,Main,pegasusDecrypt_LongClick,98,0,Starter,Service_Destroy,31,0,Starter,Service_TaskRemoved,21,0,Starter,Service_Create,12,0,Starter,Process_Globals,6,0,Starter,Service_Start,16,0,Starter,Application_Error,26,0,Main,Process_Globals,17,0
+NavigationStack=Starter,Service_Destroy,31,0,Starter,Service_TaskRemoved,21,0,Starter,Service_Create,12,0,Starter,Process_Globals,6,0,Starter,Service_Start,16,0,Starter,Application_Error,26,0,Main,Activity_Create,27,0,Main,Process_Globals,16,0,Main,pegasusEncrypt_LongClick,72,0,Main,pegasusDecrypt_LongClick,86,0
 SelectedBuild=0
 VisibleModules=1
