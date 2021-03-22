@@ -1,3 +1,5 @@
+THIS SOURCE CODE IS WRITTEN IN PHP AND BASIC4ANDROID
+
 #How_To_Use?
 
 1. Upload php files (in /Server folder) to your host.
@@ -15,5 +17,5 @@ If you have any question about this project, just send an E-mail to Ali.Codes@iC
 
 #Also...
 
-My Twitter: @AliKarbasiCom
 My Website: www.AliKarbasi.ir
+My Twitter: Twitter.com/AliKarbasiCom
