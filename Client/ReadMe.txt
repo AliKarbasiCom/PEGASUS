@@ -13,7 +13,7 @@ THIS SOURCE CODE IS WRITTEN IN PHP AND BASIC4ANDROID
 
 #Any_Questions?
 
-If you have any question about this project, just send an E-mail to Ali.Codes@iCloud.com
+If you have any question about this project, just send an E-mail to Ali@SoloCode.ir
 
 #Also...
 
