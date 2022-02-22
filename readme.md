@@ -26,7 +26,7 @@ https://www.php.net/manual/en/function.openssl-decrypt.php
 
 ## Any Questions?
 
-If you have any question about this project, just send an E-mail to AliKarbasi@SoloMail.ir
+If you have any question about this project, just send an E-mail to Ali@SoloCode.ir
 ---
 
 ## Also...
