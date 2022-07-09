@@ -26,10 +26,10 @@ https://www.php.net/manual/en/function.openssl-decrypt.php
 
 ## Any Questions?
 
-If you have any question about this project, just send an E-mail to Info@AliKarbasi.ir
+If you have any question about this project, just send an E-mail to GitHub@AliKarbasi.Dev
 ---
 
 ## Also...
 
-My Website: www.AliKarbasi.ir
+My Website: www.AliKarbasi.Dev
 My Twitter: www.Twitter.com/AliKarbasiCom
