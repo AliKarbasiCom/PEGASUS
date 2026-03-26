@@ -28,12 +28,10 @@ https://www.php.net/manual/en/function.openssl-decrypt.php
 
 ## Any Questions?
 
-If you have any questions about this project, just send an E-mail to GitHub@AliKarbasi.Dev
+If you have any questions about this project, just send an E-mail to ali.k@node64.dev
 
 ---
 
 ## Also...
 
-My Website: www.AliKarbasi.Dev
-
-My Twitter: www.Twitter.com/AliKarbasiCom
+My Website: www.alikarbasi.com
